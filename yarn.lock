@@ -369,10 +369,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/mocha@npm:^10.0.7":
-  version: 10.0.7
-  resolution: "@types/mocha@npm:10.0.7"
-  checksum: 10c0/48a2df4dd02b6e66a11129dca6a23cf0cc3995faf8525286eb851043685bd8b7444780f4bb29a1c42df7559ed63294e5308bfce3a6b862ad2e0359cb21c21329
+"@types/mocha@npm:^10.0.9":
+  version: 10.0.9
+  resolution: "@types/mocha@npm:10.0.9"
+  checksum: 10c0/76dd782ac7e971ea159d4a7fd40c929afa051e040be3f41187ff03a2d7b3279e19828ddaa498ba1757b3e6b91316263bb7640db0e906938275b97a06e087b989
   languageName: node
   linkType: hard
 
@@ -1667,7 +1667,7 @@ __metadata:
   resolution: "imbricate-quill@workspace:."
   dependencies:
     "@google/generative-ai": "npm:0.16.0"
-    "@types/mocha": "npm:^10.0.7"
+    "@types/mocha": "npm:^10.0.9"
     "@types/node": "npm:^22.2.0"
     "@types/vscode": "npm:^1.76.0"
     "@typescript-eslint/eslint-plugin": "npm:^7.17.0"
